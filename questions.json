@@ -1,0 +1,75 @@
+{
+  "name": "Concurso de preguntas",
+  "questions": [
+    {
+      "id": 1,
+      "text": "¿Cuál es la capital de Portugal?",
+      "response": ["Lisboa", "Madrid", "Barcelona", "Oporto"],
+      "correctResponse": "Lisboa",
+      "image": "images/Portugal.jpg"
+    },
+    {
+      "id": 2,
+      "text": "¿Cuál es la capital de Italia?",
+      "response": ["Milán", "Roma", "Nápoles", "Turín"],
+      "correctResponse": "Roma",
+      "image": "images/Italia.jpg"
+    },
+    {
+      "id": 3,
+      "text": "¿Cuál es la capital de Francia?",
+      "response": ["Marsella", "Lyon", "París", "Toulouse"],
+      "correctResponse": "París",
+      "image": "images/Francia.jpg"
+    },
+    {
+      "id": 4,
+      "text": "¿Cuál es la capital de Alemania?",
+      "response": ["Hamburgo", "Múnich", "Colonia", "Berlín"],
+      "correctResponse": "Berlín",
+      "image": "images/Alemania.jpg"
+    },
+    {
+      "id": 5,
+      "text": "¿Cuál es la capital de España?",
+      "response": ["Madrid", "Barcelona", "Valencia", "Sevilla"],
+      "correctResponse": "Madrid",
+      "image": "images/España.jpg"
+    },
+    {
+      "id": 6,
+      "text": "¿Cuál es la capital de Reino Unido?",
+      "response": ["Manchester", "Londres", "Liverpool", "Birmingham"],
+      "correctResponse": "Londres",
+      "image": "images/Reino Unido.jpg"
+    },
+    {
+      "id": 7,
+      "text": "¿Cuál es la capital de Irlanda?",
+      "response": ["Cork", "Limerick", "Dublín", "Galway"],
+      "correctResponse": "Dublín",
+      "image": "images/Irlanda.jpg"
+    },
+    {
+      "id": 8,
+      "text": "¿Cuál es la capital de Bélgica?",
+      "response": ["Amberes", "Gante", "Brujas", "Bruselas"],
+      "correctResponse": "Bruselas",
+      "image": "images/Belgica.jpg"
+    },
+    {
+      "id": 9,
+      "text": "¿Cuál es la capital de Holanda?",
+      "response": ["Ámsterdam", "Róterdam", "La Haya", "Utrecht"],
+      "correctResponse": "Ámsterdam",
+      "image": "images/Holanda.jpg"
+    },
+    {
+      "id": 10,
+      "text": "¿Cuál es la capital de Suiza?",
+      "response": ["Ginebra", "Berna", "Zúrich", "Basilea"],
+      "correctResponse": "Berna",
+      "image": "images/Suiza.jpg"
+    }
+  ]
+}
