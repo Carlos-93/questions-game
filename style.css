@@ -183,17 +183,22 @@ input[type="radio"] {
 @media (max-width: 767px) {
 
     h1 {
-        font-size: 1.5rem;
+        font-size: 4vw;
+    }
+
+    main h2 {
+        font-size: 3vw;
     }
 
     main {
-        gap: 1.5%;
+        gap: 1vw;
     }
 
     main div {
-        width: 90%;
+        width: 75vw;
         height: auto;
         margin: 5% auto;
+        padding: 5%;
     }
 
     main img {
@@ -207,13 +212,13 @@ input[type="radio"] {
 
     main label {
         width: 90%;
-        margin: 1% auto;
+        margin: 2% auto;
 
     }
 
     #buttonCheck {
         width: auto;
-        padding: 1.5%;
+        padding: 1.8% 3%;
     }
 
     .alert {
@@ -224,6 +229,6 @@ input[type="radio"] {
 
     footer {
         padding: 2%;
-        font-size: 13px;
+        font-size: 1rem;
     }
 }
