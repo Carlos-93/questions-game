@@ -1,4 +1,4 @@
-<img src="https://github.com/Carlos-93/pong-game/blob/main/assets/images/JavaScript.png" width="150">
+<p align="center"><img src="https://github.com/Carlos-93/pong-game/blob/main/assets/images/logo.png" width="250"></p>
 
 # Welcome to my trivia game about the countries of the world
 
